@@ -1,0 +1,146 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+#left-border{
+    padding-left: 2%;
+    border-left: 5px solid #ff6600;
+}
+#h1{
+    line-height: 0.8;
+    font-size: 50px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+}
+.color-text{
+    color: orange;
+}
+.flexible-container{
+    display: flex;
+    padding-left: 5%;
+    margin-top: 5%;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+    background-image: linear-gradient(orange,tomato);
+}
+.align-text{
+    text-align: center;
+}
+.midell-section{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.midell-box{
+    width: 50%;
+    margin: 1%;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 20px;
+    border-radius: 10px;
+}
+.midell-box img{
+    width: 40%;
+}
+#box1-color{
+    background-color: #8000803b;
+}
+#box2-color{
+    background-color: #99cd3244;
+}
+#box3-color{
+background-color: #ffa6004b;
+}
+.develop-area{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#third-part{
+    display: flex;
+    margin-top: 5%;
+    margin-left:5%;
+    background-image: url(images/shape-1.png );
+    background-repeat: no-repeat;
+    background-size: 200px 200px;   
+    background-position:left;
+    background-position: 0% 0% 10%;
+}
+.half-width-code img{
+    width: 60%;
+    margin-left: 10%;
+}
+#coding-p{
+
+    padding-right: 10%;
+}
+#fourth-part{
+    display: flex;
+    margin-top: 5%;
+    padding-bottom: 5%;
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 150px 150px ;
+    background-position: 93% 93% ;
+}
+.fourth-p{
+    width: 50%;
+    text-align: justify;
+    margin-left: 10%;
+}
+.fourth-p img{
+    width: 70% ;
+    margin-left: 5%;
+}
+#fivepart{
+ display: flex;
+margin: 0;
+}
+.five-part{
+    margin-bottom: 10%;
+}
+.web-part{
+    width: 40%;
+    margin-left:4%;
+}
+.web-part img{
+    width: 75%;
+    margin-left: 7%;
+}
+.myservice{
+    text-align: center;
+    font-weight: 700;
+    font-size: 70px;
+}
+footer{
+    background-color: black;
+    height: 135px;
+    margin-top: 90px;
+}
+.footer-color{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+.copy-right{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
